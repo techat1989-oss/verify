@@ -1,23 +1,18 @@
-// ============================================================
-// Google Sheets config — three sheets, flag-based routing
-// ============================================================
-
-// Original Sheet A — Certificate / Table layout (flag = 1)
 const SHEET_A = {
-  id: '1u-ae3CMIpvLpqBp79Ciey93KaKTbuEqZzKJrW50mcKU',
-  name: 'Sheet1',
+  id: 'PASTE_NATIVE_SHEET_A_ID_HERE',
+  name: 'Sheet1', // match your tab name exactly
 };
 
-// Original Sheet B — Statement Summary layout (flag = 2)
+// Sheet B — Statement Summary layout (flag = 2)
 const SHEET_B = {
-  id: '16iGtkKwSca1MR84QNkC2vN2psv_vYeLiRLzDiaTD0Q8',
+  id: 'PASTE_NATIVE_SHEET_B_ID_HERE',
   name: 'Sheet1',
 };
 
-// NEW sheet — PDF-style Statement Summary (flag = 3)
+// Sheet C — PDF-style Statement Summary (flag = 3)
 const SHEET_C = {
-  id: '1eiNkhAuy7M4L4gO-F5MH_I14fNDlHie4VEL2olFmUUM',
-  name: 'Sheet1', // Change if your tab is not named "Sheet1"
+  id: 'PASTE_NATIVE_SHEET_C_ID_HERE',
+  name: 'Sheet1',
 };
 
 /**
