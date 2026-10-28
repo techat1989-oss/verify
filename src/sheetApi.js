@@ -1,17 +1,17 @@
 const SHEET_A = {
-  id: 'PASTE_NATIVE_SHEET_A_ID_HERE',
+  id: '10TiLduGFSt2Cbs-pNb_GaSsj36UQkqRG',
   name: 'Sheet1', // match your tab name exactly
 };
 
 // Sheet B — Statement Summary layout (flag = 2)
 const SHEET_B = {
-  id: 'PASTE_NATIVE_SHEET_B_ID_HERE',
+  id: '1ESflTq2KCceAozJtmPXJratHivo65ukz',
   name: 'Sheet1',
 };
 
 // Sheet C — PDF-style Statement Summary (flag = 3)
 const SHEET_C = {
-  id: 'PASTE_NATIVE_SHEET_C_ID_HERE',
+  id: '1APXFYkC6u92wj6O7uokgFFPFS5I_blwF',
   name: 'Sheet1',
 };
 
